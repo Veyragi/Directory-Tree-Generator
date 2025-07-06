@@ -42,7 +42,7 @@ A simple, cross-platform Python script that generates a visual directory tree st
    ```bash
    python generate_tree.py
    
-## 📌 EXAMPLE OUTPUT
+ <pre>## 📌 EXAMPLE OUTPUT
 '''my_project
 ├── documents
 │   ├── proposal.docx
@@ -52,7 +52,7 @@ A simple, cross-platform Python script that generates a visual directory tree st
 │   └── main_banner.jpg
 └── scripts
     ├── analyze.py
-    └── main.py'''
+    └── main.py''' </pre>
 
 ## 🙋‍♂️ Created by
 
